@@ -1,6 +1,6 @@
 1.Title: Employee Card Generator
 
-2.Description: In Employee Card Generator we aim to fetch data using the links but without changing the main link address.This gives us the describtion of various blogs on just few clicks.also displays relaed links to the main link content that is been currently displayed.
+2.Description: In this application example uses the concepts of Asynchronous JavaScript and renders a web page that contains a list of company employees.
 
 3.Demo: This is the demo link to view the program output:- https://swaatipandey.github.io/employeecard/
 
